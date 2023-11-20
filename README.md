@@ -1,5 +1,5 @@
 # Nordeus Data Science Challenge 2023
-My solution for the Nordeus Data Science Challenge (Job Fair 2023)
+My solution for the Nordeus Data Science Challenge (JobFair 2023)
 
 ## Contents:
 1. **Nordeus Data Science Challenge.ipynb** - the notebook with my code and explanations
